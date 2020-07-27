@@ -10133,3 +10133,9 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.img-profile{
+    object-fit: cover;
+    width: 500px;
+    height: 500px;
+}
